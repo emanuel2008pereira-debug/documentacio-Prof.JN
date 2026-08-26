@@ -1,45 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ffff&height=220&section=header&text=EMANUEL%20PEREIRA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Anime%20Enjoyer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ffff&height=220&section=header&text=EMANUEL%20PEREIRA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20%7C%20Gamer%20%7C%20Tecnolog%C3%ADa&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+%F0%9F%91%BE;Code+%7C+Games+%7C+Anime+%7C+Technology;Building+projects+one+line+at+a+time+%E2%9A%A1;Entering+the+digital+world...+%F0%9F%8C%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=%C2%A1Bienvenido+a+mi+GitHub!+%F0%9F%91%BE;C%C3%B3digo+%7C+Juegos+%7C+Tecnolog%C3%ADa;Construyendo+proyectos+una+l%C3%ADnea+a+la+vez+%E2%9A%A1;Entrando+al+mundo+digital...+%F0%9F%8C%8C;Creando%2C+aprendiendo+y+subiendo+de+nivel+%F0%9F%94%A5" alt="Texto animado"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=PROFILE%20VIEWS&color=00ffff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=emanuel2008pereira-debug&label=VISITAS+AL+PERFIL&color=00ffff&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/TU_USUARIO?label=FOLLOWERS&style=for-the-badge&color=8a2be2&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/emanuel2008pereira-debug?label=SEGUIDORES&style=for-the-badge&color=8a2be2&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-# ⚡ `> whoami`
+# ⚡ `> quién_soy`
 
 ```java
 public class Emanuel {
 
-    String name = "Emanuel Pereira";
-    String role = "Developer & Gamer";
-    String focus = "Web Development";
-    String[] interests = {
-        "Programming",
-        "Game Development",
-        "Anime",
-        "Gaming",
-        "Technology"
+    String nombre = "Emanuel Pereira";
+    String rol = "Desarrollador & Gamer";
+    String enfoque = "Desarrollo Web";
+
+    String[] intereses = {
+        "Programación",
+        "Desarrollo Web",
+        "Desarrollo de Juegos",
+        "Videojuegos",
+        "Tecnología"
     };
 
-    String status = "Building something cool...";
+    String estado = "Construyendo algo increíble...";
 
-    public void execute() {
+    public void ejecutar() {
+
         while (true) {
-            code();
-            learn();
-            game();
-            repeat();
+
+            programar();
+            aprender();
+            crear();
+            jugar();
+            mejorar();
         }
     }
 }
@@ -47,148 +51,162 @@ public class Emanuel {
 
 ---
 
-# 🌌 About Me
+# 🌌 Sobre mí
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎮 Gamer with a passion for technology
-💻 Learning and building software
-🌐 Interested in Web Development
-🚀 Exploring Java, JavaScript, Python and more
-🎨 I like dark/neon aesthetics
-⚔️ Anime & gaming enthusiast
-🧠 Always learning something new
-🔥 Goal: become a better developer every day
+🎮 Gamer apasionado por la tecnología
+💻 Aprendiendo y creando proyectos de software
+🌐 Interesado en el desarrollo web
+🚀 Explorando Java, JavaScript, Python y más
+🎨 Me gustan los estilos oscuros y neon
+🧠 Siempre aprendiendo algo nuevo
+🔥 Mejorando mis habilidades de programación
+💡 Me gusta experimentar con nuevas ideas
+⚙️ Creando proyectos y aprendiendo en el proceso
 
 <br clear="right"/>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tecnologías que utilizo
 
-### Languages
+### 🧠 Lenguajes
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css"/>
 
 </p>
 
-### Frameworks & Tools
+### ⚙️ Frameworks y herramientas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,maven,git,github,vscode,idea,netlify" />
+<img src="https://skillicons.dev/icons?i=spring,maven,git,github,vscode,idea,netlify"/>
 
 </p>
 
-### Database
+### 🗄️ Bases de datos
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Mis estadísticas de GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuel2008pereira-debug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel2008pereira-debug&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Racha de GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF" />
+<img src="https://streak-stats.demolab.com?user=emanuel2008pereira-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Serpiente de contribuciones
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emanuel2008pereira-debug/emanuel2008pereira-debug/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones"/>
 
 </div>
 
 ---
 
-# 🎮 Gaming Zone
+# 🎮 Zona Gamer
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║                 🎮 GAMING MODE                   ║
+║                  🎮 MODO GAMER                  ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
 ║  🎯 Blood Strike                                ║
 ║  ⚔️ Mobile Legends                              ║
-║  🧟 Survival Games                              ║
 ║  ⛏️ Minecraft                                   ║
-║  🚀 Action / FPS                                ║
+║  🔫 Juegos FPS                                  ║
+║  🧟 Juegos de supervivencia                     ║
+║  🚀 Juegos de acción                            ║
 ║                                                  ║
-║             STATUS: ONLINE 🟢                   ║
+║             ESTADO: 🟢 EN LÍNEA                 ║
 ╚══════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🌸 Anime Energy
+# 🖥️ Modo Desarrollador
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
 
-### `⚡ POWER LEVEL: OVER 9000 ⚡`
+### ⚡ `CÓDIGO ACTIVADO` ⚡
+
+```text
+[████████████████████████████████████████] 100%
+
+> Iniciando sistema...
+> Cargando herramientas...
+> Compilando ideas...
+> Creando proyectos...
+> Estado: ONLINE 🟢
+```
 
 </div>
 
 ---
 
-# 🚀 Current Mission
+# 🚀 Mi misión actual
 
 ```diff
-+ Learn something new every day
-+ Build better projects
-+ Improve my programming skills
-+ Explore game development
-+ Create unique websites
-+ Level up my GitHub profile
++ Aprender algo nuevo todos los días
++ Mejorar mis habilidades de programación
++ Crear mejores proyectos
++ Explorar el desarrollo de videojuegos
++ Crear páginas web increíbles
++ Aprender nuevas tecnologías
++ Mejorar mi perfil de GitHub
++ Subir de nivel como desarrollador
 ```
 
 ---
 
-# 📈 Activity
+# 📈 Actividad en GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuel2008pereira-debug&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Trofeos de GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=emanuel2008pereira-debug&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
-# ⚡ Featured Skills
+# ⚡ Mis habilidades
 
 <p align="center">
 
@@ -200,23 +218,24 @@ public class Emanuel {
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-# 💜 My Philosophy
+# 🧩 Mi filosofía
 
 <div align="center">
 
-> **"Code. Learn. Create. Repeat."**
+> **"Programar. Aprender. Crear. Repetir."**
 
 <br>
 
 ```text
 ████████████████████████████████████████████
 █                                          █
-█       THE FUTURE IS BUILT WITH CODE      █
+█       EL FUTURO SE CONSTRUYE CON CÓDIGO █
 █                                          █
 ████████████████████████████████████████████
 ```
@@ -225,12 +244,14 @@ public class Emanuel {
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Mi GitHub
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/emanuel2008pereira-debug">
+
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
@@ -239,10 +260,18 @@ public class Emanuel {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-### ⚡ Thanks for visiting my profile ⚡
+### ⚡ Gracias por visitar mi perfil ⚡
 
-`[ SYSTEM STATUS: ONLINE ]`
+`[ ESTADO DEL SISTEMA: 🟢 EN LÍNEA ]`
+
+<br>
+
+`████████████████████████████████████████`
+
+**💻 CÓDIGO • 🎮 VIDEOJUEGOS • ⚡ TECNOLOGÍA • 🚀 PROYECTOS**
+
+`████████████████████████████████████████`
 
 </div>
